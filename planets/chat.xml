@@ -1,0 +1,54 @@
+<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+	<NameField>Hornfels</NameField>
+
+	<DialogueNode>
+		<Name>MAIN</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>You're finally awake! And just in time, too.</Page>
+			<Page>I spotted a strange object approaching our solar system. It looks sort of like a planet, but... You'd best see for yourself.</Page>
+			<Page>I know this is your first solo flight, but you're the only one available to investigate.</Page>
+			<Page>Theree isn't much time before it leaves the system. Do you think you could go there?</Page>
+		</Dialogue>
+		
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Of course! It sounds like a great adventure.</Text>
+
+				<DialogueTarget>Adventure</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>I'll think about it.</Text>
+				<DialogueTarget>Think</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+        <SetCondition>Talked</SetCondition>
+
+
+	</DialogueNode>
+
+    <DialogueNode>
+		<Name>Repeat</Name>
+		<EntryCondition>Talked</EntryCondition>
+		<Dialogue>
+			<Page>This is exciting, an actual extrasolar planet! Imagine what we can learn from it!</Page>
+		</Dialogue>
+
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>Adventure</Name>
+		<Dialogue>
+			<Page>I knew you were a real explorer! Good luck, out there!</Page>
+
+		</Dialogue>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>Think</Name>
+		<Dialogue>
+			<Page>I hope you do, this is our only chance before it leaves the star system!</Page>
+		</Dialogue>
+	</DialogueNode>
+
+</DialogueTree>

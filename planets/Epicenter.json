@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Epicenter",
+	"starSystem": "SolarSystem",
+	"canShowOnTitle": false,
+	"Base": {
+		"groundSize": 300,
+		"surfaceGravity": 4,
+		"surfaceSize": 301
+
+
+	},
+
+	"Orbit": {
+	"primaryBody": "Sun",
+		"isStatic": true,
+		"semiMajorAxis": 85000,
+		"trueAnomaly": 190
+
+	}
+}

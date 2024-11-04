@@ -41,4 +41,19 @@ namespace JamminPlaceholder
         }
     }
 
+
+    [HarmonyPatch]
+    public class ShenanigansPatch
+    {
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(Campfire), nameof(Campfire.StartRoasting))]
+
+        public static bool Campfire_StartRoasting_Prefix()
+        {
+            JamminPlaceholder.Instance.ModHelper.Console.WriteLine("Beep!");
+            TextTranslation.Get().SetLanguage(TextTranslation.Language.UNKNOWN);
+            return true;
+        }
+    }
+
 }

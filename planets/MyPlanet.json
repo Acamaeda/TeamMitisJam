@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "MyPlanet",
+	"starSystem": "SolarSystem",
+	"Orbit": {
+		"primaryBody": "Epicenter",
+		"semiMajorAxis": 104200,
+		"trueAnomaly": 0
+
+	},
+
+	"Base": {
+		"groundSize": 78,
+		"surfaceSize": 79,
+		"surfaceGravity": 9
+	}
+
+
+}
