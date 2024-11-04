@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 3933778302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ed3cf27be2711d43a39290ec1979f96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc9975494c3526b238a3808994503f9b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DModels/StoryDecals/Story3.mat
+- Assets/3DModels/Character/Texture/Mushboi.mat
+- Assets/3DModels/Planets/Texture/vines.png
+- Assets/3DModels/Character/Texture/Character_OWJ4_Texture_DefaultMaterial_MetallicSmoothness.png
+- Assets/3DModels/StoryDecals/mural_discovery.png
+- Assets/3DModels/StoryDecals/Story1.mat
+- Assets/3DModels/Batiment/Pyramid.fbx
+- Assets/3DModels/StoryDecals/Story4.mat
+- Assets/3DModels/Planets/Root_B.mat
+- Assets/3DModels/Batiment/Texture/Mushouse_DefaultMaterial_Emission.png
+- Assets/3DModels/Batiment/Texture/Mushouse_DefaultMaterial_AlbedoTransparency.png
+- Assets/3DModels/Plants/Champi_Tree.mat
+- Assets/3DModels/StoryDecals/communication.png
+- Assets/3DModels/Planet_Mushroom.prefab
+- Assets/3DModels/Batiment/Texture/Mushouse_DefaultMaterial_Normal.png
+- Assets/3DModels/Plants/ChampiUnder2.mat
+- Assets/3DModels/Batiment/Texture/Pyramid.mat
+- Assets/3DModels/Batiment/Texture/Mushouse.mat
+- Assets/3DModels/Batiment/Mushouse.fbx
+- Assets/3DModels/StoryDecals/map_2.png
+- Assets/3DModels/Character/Texture/Character_OWJ4_Texture_DefaultMaterial_AlbedoTransparency.png
+- Assets/3DModels/Character/Planet_Mushroom.controller
+- Assets/3DModels/Batiment/Texture/Pyramid_Pyramid_MetallicSmoothness.png
+- Assets/3DModels/Character/Mushboi.fbx
+- Assets/3DModels/StoryDecals/Story2.mat
+- Assets/3DModels/Plants/TreeA/ChampiTree_A_Champi_Tree_Normal.png
+- Assets/3DModels/Objects/Riverocks.fbx
+- Assets/3DModels/Plants/TreeA/ChampiTree_A_Champi_Tree_MetallicSmoothness.png
+- Assets/3DModels/Planets/PlanetGround.mat
+- Assets/3DModels/Objects/Texture/brain_texture_2.png
+- Assets/3DModels/Planets/Texture/vines_light.png
+- Assets/3DModels/Character/Texture/Character_OWJ4_Texture_DefaultMaterial_Normal.png
+- Assets/3DModels/Objects/Brain.fbx
+- Assets/3DModels/Plants/TreeA/ChampiTree_A_Champi_Tree_Emission.png
+- Assets/3DModels/StoryDecals/mural_brain.png
+- Assets/3DModels/Plants/TreeA/ChampiTree_A_Champi_Tree_AlbedoTransparency.png
+- Assets/3DModels/Batiment/Texture/Pyramid_Pyramid_Normal.png
+- Assets/3DModels/Plants/ChampiUnder3.mat
+- Assets/3DModels/Planets/Texture/vines_dark.png
+- Assets/3DModels/Plants/ChampiTree_A.fbx
+- Assets/3DModels/Character/Texture/Character_OWJ4_Texture_DefaultMaterial_Emission.png
+- Assets/3DModels/Planets/Planet_Mushroom.fbx
+- Assets/3DModels/Batiment/Texture/Pyramid_Pyramid_AlbedoTransparency.png
+- Assets/3DModels/Plants/Champi_Tree_Under.mat
+- Assets/3DModels/Planets/Root_A.mat
+- Assets/3DModels/Objects/Brain.mat
+- Assets/3DModels/Batiment/Texture/Pyramid_Pyramid_Emission.png
+- Assets/3DModels/Batiment/Texture/Mushouse_DefaultMaterial_MetallicSmoothness.png
+Dependencies: []
