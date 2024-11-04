@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "NutritionSource",
+	"starSystem": "SolarSystem",
+	"Orbit": {
+		"primaryBody": "MyPlanet",
+		"semiMajorAxis": 93.8,
+		"trueAnomaly": 330,
+		"isTidallyLocked": true
+	},
+
+	"Base": {
+		"groundSize": 39,
+		"surfaceSize": 39,
+		"surfaceGravity": 5
+	}
+
+
+}

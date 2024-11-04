@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Timber Hearth",
+
+	"removeChildren": [
+		"Sector_TH/Sector_Village/Sector_Observatory/Characters_Observatory/Villager_HEA_Hornfels (1)/"
+	],
+
+	"Props": {
+		"details": [
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Characters_Observatory/Villager_HEA_Hornfels (1)/Villager_HEA_Hornfels_ANIM_Working",
+				"position": {
+					"x": 14.62074,
+					"y": -45.50951,
+					"z": 184.7901
+				},
+				"rotation": {
+					"x": 357.6948,
+					"y": 94.26647,
+					"z": 104.0069
+				}
+			}
+		],
+		"dialogue": [
+			{
+				"position": {
+					"x": 14,
+					"y": -46.15,
+					"z": 186.8
+				},
+				"xmlFile": "planets/chat.xml",
+				"pathToAnimController": "Sector_TH/Villager_HEA_Hornfels_ANIM_Working",
+				"lookAtRadius": 3,
+				"radius": 1.5
+			}
+		]
+	}
+}
