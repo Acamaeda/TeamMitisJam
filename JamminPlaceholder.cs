@@ -2,6 +2,7 @@
 using OWML.Common;
 using OWML.ModHelper;
 using System.Reflection;
+using UnityEngine;
 
 namespace JamminPlaceholder
 {
@@ -32,6 +33,23 @@ namespace JamminPlaceholder
             // Example of accessing game code.
             OnCompleteSceneLoad(OWScene.TitleScreen, OWScene.TitleScreen); // We start on title screen
             LoadManager.OnCompleteSceneLoad += OnCompleteSceneLoad;
+
+            ModHelper.Interaction.TryGetModApi<INewHorizons>("xen.NewHorizons").GetStarSystemLoadedEvent().AddListener(OnStarSystemLoaded);
+
+        }
+
+        public void OnStarSystemLoaded(string system)
+        {
+            if (system == "SolarSystem")
+            {
+
+                var planet = GameObject.Find("MyPlanet_Body");
+                var moon = GameObject.Find("NutritionSource_Body");
+                var alignment = planet.AddComponent<AlignWithTargetBody>();
+                alignment.SetTargetBody(moon.GetAttachedOWRigidbody());
+                alignment.SetUsePhysicsToRotate(true);
+                ModHelper.Console.WriteLine("Alignment set up!", MessageType.Success);
+            }
         }
 
         public void OnCompleteSceneLoad(OWScene previousScene, OWScene newScene)

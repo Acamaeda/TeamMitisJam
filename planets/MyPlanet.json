@@ -5,14 +5,41 @@
 	"Orbit": {
 		"primaryBody": "Epicenter",
 		"semiMajorAxis": 104200,
-		"trueAnomaly": 0
+		"trueAnomaly": 0,
+		"siderealPeriod": 0.98313519343
 
 	},
 
 	"Base": {
-		"groundSize": 78,
-		"surfaceSize": 79,
+		"groundSize": 0,
+		"surfaceSize": 58.5,
 		"surfaceGravity": 9
+	},
+
+	"Props": {
+		"details": [
+			{
+				"assetBundle": "planets/mushroomplanet",
+				"path": "Assets/3DModels/Planet_Mushroom.prefab",
+				"position": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"keepLoaded": true
+			}
+		],
+		"proxyDetails": [
+			{
+				"assetBundle": "planets/mushroomplanet",
+				"path": "Assets/3DModels/Planet_Mushroom.prefab",
+				"position": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
 	}
 
 

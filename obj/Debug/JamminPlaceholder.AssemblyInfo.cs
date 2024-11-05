@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2024 TeamMitis")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c849acaec9a39ed7e82d2c1db156a011e733beef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d407a481f0220342d8561fbfd84b1b324b87d5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("JamminPlaceholder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JamminPlaceholder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

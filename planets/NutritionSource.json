@@ -4,16 +4,18 @@
 	"starSystem": "SolarSystem",
 	"Orbit": {
 		"primaryBody": "MyPlanet",
-		"semiMajorAxis": 93.8,
-		"trueAnomaly": 330,
+		"semiMajorAxis": 139.5,
+		"trueAnomaly": 270,
 		"isTidallyLocked": true
 	},
 
 	"Base": {
-		"groundSize": 39,
-		"surfaceSize": 39,
+		"groundSize": 0,
+		"surfaceSize": 29,
 		"surfaceGravity": 5
 	}
+
+	
 
 
 }

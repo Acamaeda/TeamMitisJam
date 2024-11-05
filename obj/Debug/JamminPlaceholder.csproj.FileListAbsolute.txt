@@ -18,3 +18,9 @@ C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPl
 C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\chat.xml
 C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\Epicenter.json
 C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\MyPlanet.json
+C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\NutritionSource.json
+C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\mushroomplanet
+C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\mushroomplanet.manifest
+C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\Planet_Mushroom.prefab
+C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\planets\Planet_Mushroom.unitypackage
+C:\Users\acama\AppData\Roaming\OuterWildsModManager\OWML\Mods\TeamMitis.JamminPlaceholder\subtitle.png

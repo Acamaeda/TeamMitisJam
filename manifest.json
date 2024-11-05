@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "JamminPlaceholder.dll",
   "author": "TeamMitis",
-  "name": "JamminPlaceholder",
-  "uniqueName": "TeamMitis.JamminPlaceholder",
+  "name": "Liason",
+  "uniqueName": "TeamMitis.Liason",
   "version": "0.1.0",
   "owmlVersion": "2.13.0",
   "dependencies": ["xen.NewHorizons"]

@@ -12,10 +12,11 @@
 	},
 
 	"Orbit": {
-	"primaryBody": "Sun",
+		"primaryBody": "Sun",
 		"isStatic": true,
-		"semiMajorAxis": 85000,
+		"semiMajorAxis": 85750,
 		"trueAnomaly": 190
 
-	}
+	},
+	"Cloak": {"radius": 400}
 }
