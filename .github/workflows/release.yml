@@ -15,7 +15,7 @@ permissions:
 
 env:
   PROJ_USERNAME: TeamMitis
-  PROJ_NAME: JaminPlaceholder
+  PROJ_NAME: JamminPlaceholder
 
 jobs:
   pre_job:
