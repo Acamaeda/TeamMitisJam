@@ -4,7 +4,7 @@
   "author": "TeamMitis",
   "name": "Liason",
   "uniqueName": "TeamMitis.Liason",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owmlVersion": "2.13.0",
   "dependencies": ["xen.NewHorizons"]
 }
